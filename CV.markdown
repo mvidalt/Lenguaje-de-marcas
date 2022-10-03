@@ -3,11 +3,11 @@
 Nombre: **Alberto Prieto Espinosa**
 Fecha de nacimiento: 24/08/1945
 Dirección:
-ETS de Ingenierías Informáticas y de Telecomunicación.
-Universidad de Granada
-C/ Periodista Danie Saucedo, s/n
-E-18071 GRANADA
-Email: [email protected]
+*ETS de Ingenierías Informáticas y de Telecomunicación.*
+*Universidad de Granada*
+*C/ Periodista Danie Saucedo, s/n*
+*E-18071 GRANADA*
+*Email: [email protected]*
 Web: https://icar.ugr.es/información/directorio-personal/alberto-prieto-espinosa/web/curriculum
 
 #### Resumen
